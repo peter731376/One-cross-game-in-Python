@@ -1,8 +1,8 @@
 # One-cross-game-in-Python
 
-This game exercise from my Python course at school
-I wrote the file ristinolla.py
-Tehtävän kuvaus
+This game exercise from my Python course at school  
+I wrote the file ristinolla.py  
+Tehtävän kuvaus  
 Kirjoita moduuliin ristinolla luokka Ristinolla, jonka avulla kaksi käyttäjää voi pelata ristinollaa 4x4-kokoisella ruudukolla.
 
 Huomaa, että moduulin nimi pitää kirjoittaa pienellä alkukirjaimella. Vastaavasti luokan nimi pitää kirjoittaa isolla alkukirjaimella. Tämä on yleisesti käytetty nimeämiskäytäntö, jota myös Goblin vaatii käytettävän (muuten ohjelmasi tarkistus ei toimi).
